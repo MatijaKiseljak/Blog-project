@@ -27,7 +27,7 @@ This project is a backend application for a blog platform implemented using Djan
 1. Clone this repository to your machine.
   ```
   git clone <repo_url>
-
+  ```
 
 2. Create a virtual environment (optional but recommended).
   ```
