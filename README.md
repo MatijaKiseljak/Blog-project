@@ -4,8 +4,7 @@ This project is a backend application for a blog platform implemented using Djan
 
 ## Features
 
-- **User Registration:**
-- Users can register to access all the functionalities of the blog platform.
+- **User Registration:** Users can register to access all the functionalities of the blog platform.
 
 - **Login:** After registration, users can log in to the system to access their user account.
 
