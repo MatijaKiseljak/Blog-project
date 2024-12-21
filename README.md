@@ -50,12 +50,12 @@ python -m venv myenv
 
 4. Install required packages from `requirements.txt`.
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 5. Run the Django server.
 
-python manage.py runserver
+   python manage.py runserver
 
 
 ## API Endpoints
