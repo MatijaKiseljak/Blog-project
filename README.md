@@ -25,14 +25,14 @@ This project is a backend application for a blog platform implemented using Djan
 ## Installation
 
 1. Clone this repository to your machine.
-
-git clone <repo_url>
+  ```
+  git clone <repo_url>
 
 
 2. Create a virtual environment (optional but recommended).
-
-python -m venv myenv
-
+  ```
+  python -m venv myenv
+  ```
 
 3. Activate the virtual environment.
 
@@ -49,14 +49,14 @@ python -m venv myenv
   ```
 
 4. Install required packages from `requirements.txt`.
-
+  ```
    pip install -r requirements.txt
-
+  ```
 
 5. Run the Django server.
-
+  ```
    python manage.py runserver
-
+  ```
 
 ## API Endpoints
 
