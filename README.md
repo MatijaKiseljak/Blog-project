@@ -28,15 +28,11 @@ This project is a backend application for a blog platform implemented using Djan
 
 git clone <repo_url>
 
-arduino
-Copy code
 
 2. Create a virtual environment (optional but recommended).
 
 python -m venv myenv
 
-r
-Copy code
 
 3. Activate the virtual environment.
 
@@ -56,15 +52,11 @@ Copy code
 
 pip install -r requirements.txt
 
-markdown
-Copy code
 
 5. Run the Django server.
 
 python manage.py runserver
 
-markdown
-Copy code
 
 ## API Endpoints
 
